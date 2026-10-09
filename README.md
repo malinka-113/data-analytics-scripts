@@ -28,7 +28,6 @@
 
 ### 🚀 Быстрый старт
 **1. Установка зависимостей:**
-```bash
 pip install pandas psycopg2-binary openpyxl sqlalchemy
 
 ---
@@ -73,3 +72,10 @@ pip install pandas psycopg2-binary openpyxl sqlalchemy
 **1. Установка зависимостей:**
 ```bash
 pip install pandas python-docx openpyxl
+
+---
+
+## 🔄 3. Парсер маппингов DWH (Word → Excel)
+
+Автоматизированный инструмент для извлечения SQL-запросов и атрибутов из документов первичного маппинга (формат R08, Банк ВТБ) и построения матрицы соответствия атрибутов источника и целевой модели данных (ОВЮЛ).
+
