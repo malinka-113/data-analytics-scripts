@@ -32,7 +32,7 @@
 ```bash
 pip install pandas psycopg2-binary openpyxl sqlalchemy
 
-## 🔄 2. Парсер маппингов DWH (Word → Excel)
+## 🔄 1. Парсер маппингов DWH (Word → Excel)
 
 Автоматизированный инструмент для извлечения SQL-запросов и атрибутов из документов первичного маппинга...
 
